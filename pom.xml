@@ -10,7 +10,7 @@
 
 	<name>JPA-</name>
 	<description>Demo project for Spring Boot</description>
-
+	<!--fd-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
